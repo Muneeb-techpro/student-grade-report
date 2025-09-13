@@ -59,13 +59,13 @@ student-grade-report/
 ## 📖 Documentation
 
 Full project details are available in:
-📄 [Student_Grade_Report_Documentation.docx](docs/Student_Grade_Report_Documentation.docx)
+📄[Download Student Grade Report Documentation](docs/Student_Grade_Report_Documentation.docx)
 
 
 ## 👨‍💻 Author
 
-Muneeb Hussain
-BSCS Student | UCP
+Muneeb Hussain |
+BSCS Student
 
 ## 📜 License
 
