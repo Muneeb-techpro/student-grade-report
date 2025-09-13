@@ -18,7 +18,8 @@ student-grade-report/
 │ └── main.cpp
 │
 ├── docs/ # Documentation
-│ └── Student_Grade_Report_Documentation.docx
+│ ├── Student_Grade_Report_Documentation.docx
+│ └── Student_Grade_Report_Documentation.pdf
 │
 ├── media/ # Videos + Output images
 │ ├── 01_Code_Overview.mkv
@@ -58,8 +59,10 @@ student-grade-report/
 
 ## 📖 Documentation
 
-Full project details are available in:
-📄[Download Student Grade Report Documentation](docs/Student_Grade_Report_Documentation.docx)
+Full project details are available in:  
+
+- 📄 [Download Word Version (.docx)](docs/Student_Grade_Report_Documentation.docx)  
+- 📑 [View PDF Version](docs/Student_Grade_Report_Documentation.pdf)
 
 
 ## 👨‍💻 Author
