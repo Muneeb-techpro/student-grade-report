@@ -59,7 +59,7 @@ student-grade-report/
 ## 📖 Documentation
 
 Full project details are available in:
-📄[Download Student Grade Report Documentation](docs/Project Documentation; Student Grade Report System.docx)
+📄[Download Student Grade Report Documentation](docs/Student_Grade_Report_Documentation.docx)
 
 
 ## 👨‍💻 Author
